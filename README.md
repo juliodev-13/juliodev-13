@@ -1,4 +1,8 @@
-![image](https://raw.githubusercontent.com/juliodev-13/Juliodev/main/potterhead2.jpg)
+<h1 align='center'>
+  Hi there 👋 I'm Júlio C. 👨‍💻
+</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://raw.githubusercontent.com/juliodev-13/Juliodev/main/potterhead2.jpg)
 
 ---
 
