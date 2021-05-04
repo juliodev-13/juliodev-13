@@ -2,7 +2,8 @@
   Hi there 👋 I'm Júlio C. 👨‍💻
 </h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://raw.githubusercontent.com/juliodev-13/Juliodev/main/potterhead2.jpg)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://raw.githubusercontent.com/juliodev-13/Juliodev/main/potterhead2.jpg)
 
 ---
 
@@ -18,9 +19,24 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/júlio-cesar-da-silva-3b4461164) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jcesar13nomadic_/) 
+<p align='center'>
+  
+ 
+  <a href="https://www.linkedin.com/in/júlio-cesar-da-silva-3b4461164/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jcesar13nomadic_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliodev-13&show_icons=true&theme=dark)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juliodev-13&show_icons=true&count_private=true&theme=dark" width="500"></a>
+</p>
 
+<p align='center'>
 <img src="https://cdn-images-1.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" alt="Por hoje é só pessoal" title="Por hoje é só pessoal">
+</p>
+
