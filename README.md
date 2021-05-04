@@ -7,9 +7,7 @@
 
 ---
 
-<h1 align='center'>
-  Hi there 👋 I'm Júlio C. 👨‍💻
-</h1>
+
 
 <h2 align= 'center'>Sejam bem-vindos ao meu perfil, sou um DEV iniciante, por tanto, toda a ajuda será bem vinda.</h2>
 
