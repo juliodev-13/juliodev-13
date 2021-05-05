@@ -11,7 +11,7 @@
 
 <h2 align= 'center'>Welcome to my profile, I'm a beginner DEV and I accept all suggestions.</h2>
 
-<h3 align= 'center'>▪️ 👨‍🎓Technical system analysis estudant.<br> 
+<h3 align= 'center'>▪️ 👨‍🎓Technical system analysis student.<br> 
 ▪️ As I didn't recive my letter to <b><u>Hogwarts</u></b>, I'm here to making magic 🧙🏼‍♂️<br> 
 ▪️ Dad👨‍👩‍👧, Husband👩🏽‍🤝‍👨🏼, DEV💻 e GEEK🤓 (whenever I can).👻</h3>
 
