@@ -13,7 +13,7 @@
 
 <h3 align= 'center'>▪️ 👨‍🎓Technical system analysis student.<br> 
 ▪️ As I didn't recive my letter to <b><u>Hogwarts</u></b>, I'm here to making magic 🧙🏼‍♂️<br> 
-▪️ Dad👨‍👩‍👧, Husband👩🏽‍🤝‍👨🏼, DEV💻 e GEEK🤓 (whenever I can).👻</h3>
+▪️ Dad👨‍👩‍👧, Husband👩🏽‍🤝‍👨🏼, DEV💻 and GEEK🤓 (whenever I can).👻</h3>
 
 ---
 
