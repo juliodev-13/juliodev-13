@@ -28,13 +28,18 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliodev-13&layout=compact&theme=dark"
+    />
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juliodev-13&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
 <p align='center'>
-<img src="https://cdn-images-1.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" alt="Por hoje é só pessoal" title="Por hoje é só pessoal">
+<img src="https://cdn-images-1.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" alt="Por hoje é só pessoal" title="Por hoje é só pessoal" width="250">
 </p>
 
