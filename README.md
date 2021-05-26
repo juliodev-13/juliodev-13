@@ -45,7 +45,7 @@
 <details>
   <summary>📃 Resume</summary>
   <br>
- <h3> ▪️  Education 🤓 </h3><br>
+  ▪️  Education 🤓 <br>
   <br>
    [Algoritmo](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
    [Bases Numéricas](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
@@ -57,8 +57,8 @@
    [Inglês](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
   <br>
   
-  <h3> ▪️  College 👨🏼‍🎓 </h3> <br>
-  &nbsp;&nbsp; Technical system analysis - UNIP
+  ▪️  College 👨🏼‍🎓 <br>
+   Technical system analysis - UNIP
     
   
 </details>  
