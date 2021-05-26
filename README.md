@@ -47,14 +47,14 @@
   
  ▪️  Education 🤓 <br>
   <br>
-  [Algoritmo.pdf](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
-  [Bases Numéricas.pdf](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
-  [Hardware.pdf](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
-  [HTML5&CSS3.pdf](https://github.com/juliodev-13/juliodev-13/files/6543550/HTML5.CSS3.pdf)<br>
-  [JavaScript.pdf](https://github.com/juliodev-13/juliodev-13/files/6543551/JavaScript.pdf)<br>
-  [Nodejs & MongoDB.pdf](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
-  [Redes de Computadores.pdf](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
-  [Inglês.pdf](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
+  [Algoritmo](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
+  [Bases Numéricas](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
+  [Hardware](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
+  [HTML5&CSS3](https://github.com/juliodev-13/juliodev-13/files/6543550/HTML5.CSS3.pdf)<br>
+  [JavaScript](https://github.com/juliodev-13/juliodev-13/files/6543551/JavaScript.pdf)<br>
+  [Nodejs & MongoDB](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
+  [Redes de Computadores](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
+  [Inglês](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
   <br>
   
   ▪️  College 👨🏼‍🎓 <br>
