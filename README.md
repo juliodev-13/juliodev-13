@@ -46,7 +46,7 @@
   <summary>📃 Resume</summary>
   <br>
   ▪️  Education 🤓 <br>
-  <br>
+ 
    [Algoritmo](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
    [Bases Numéricas](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
    [Hardware](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
@@ -55,7 +55,7 @@
    [Nodejs & MongoDB](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
    [Redes de Computadores](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
    [Inglês](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
-  <br>
+  
   
   ▪️  College 👨🏼‍🎓 <br>
    Technical system analysis - UNIP
