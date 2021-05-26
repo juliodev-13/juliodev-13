@@ -9,6 +9,7 @@
 
 
 
+
 <h2 align= 'center'>Welcome to my profile, I'm a beginner DEV and I accept all suggestions.</h2>
 
 <h3 align= 'center'>▪️ 👨‍🎓Technical system analysis student.<br> 
@@ -39,6 +40,31 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juliodev-13&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
+ ---   
+    
+<details>
+  <summary>📃 Resume</summary>
+  
+ ▪️  Education 🤓 <br>
+  <br>
+  [Algoritmo.pdf](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
+  [Bases Numéricas.pdf](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
+  [Hardware.pdf](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
+  [HTML5&CSS3.pdf](https://github.com/juliodev-13/juliodev-13/files/6543550/HTML5.CSS3.pdf)<br>
+  [JavaScript.pdf](https://github.com/juliodev-13/juliodev-13/files/6543551/JavaScript.pdf)<br>
+  [Nodejs & MongoDB.pdf](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
+  [Redes de Computadores.pdf](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
+  [Inglês.pdf](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
+  <br>
+  
+  ▪️  College 👨🏼‍🎓 <br>
+  Technical system analysis - UNIP
+    
+  
+</details>  
+
+---
+    
 <p align='center'>
 <img src="https://cdn-images-1.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" alt="Por hoje é só pessoal" title="Por hoje é só pessoal" width="250">
 </p>
