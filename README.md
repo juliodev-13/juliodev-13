@@ -44,21 +44,21 @@
     
 <details>
   <summary>📃 Resume</summary>
-  
- ▪️  Education 🤓 <br>
   <br>
-  [Algoritmo](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
-  [Bases Numéricas](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
-  [Hardware](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
-  [HTML5&CSS3](https://github.com/juliodev-13/juliodev-13/files/6543550/HTML5.CSS3.pdf)<br>
-  [JavaScript](https://github.com/juliodev-13/juliodev-13/files/6543551/JavaScript.pdf)<br>
-  [Nodejs & MongoDB](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
-  [Redes de Computadores](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
-  [Inglês](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
+ <h3> ▪️  Education 🤓 </h3><br>
+  <br>
+  &nbsp;&nbsp; [Algoritmo](https://github.com/juliodev-13/juliodev-13/files/6543545/Algoritmo.pdf)<br>
+  &nbsp;&nbsp; [Bases Numéricas](https://github.com/juliodev-13/juliodev-13/files/6543546/Bases.Numericas.pdf) <br>
+  &nbsp;&nbsp; [Hardware](https://github.com/juliodev-13/juliodev-13/files/6543549/Hardware.pdf)<br>
+  &nbsp;&nbsp; [HTML5&CSS3](https://github.com/juliodev-13/juliodev-13/files/6543550/HTML5.CSS3.pdf)<br>
+  &nbsp;&nbsp; [JavaScript](https://github.com/juliodev-13/juliodev-13/files/6543551/JavaScript.pdf)<br>
+  &nbsp;&nbsp; [Nodejs & MongoDB](https://github.com/juliodev-13/juliodev-13/files/6543552/Nodejs.MongoDB.pdf)<br>
+  &nbsp;&nbsp; [Redes de Computadores](https://github.com/juliodev-13/juliodev-13/files/6543553/Redes.de.Computadores.pdf)<br>
+  &nbsp;&nbsp; [Inglês](https://github.com/juliodev-13/juliodev-13/files/6543554/Ingles.pdf)<br>
   <br>
   
-  ▪️  College 👨🏼‍🎓 <br>
-  Technical system analysis - UNIP
+  <h3> ▪️  College 👨🏼‍🎓 </h3> <br>
+  &nbsp;&nbsp; Technical system analysis - UNIP
     
   
 </details>  
